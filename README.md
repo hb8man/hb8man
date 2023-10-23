@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hb8man
 - 👀 I’m interested in obtaining a position as an iOS developer.
-- 🌱 Former CS undergrad at Oregon State, currently studying iOS development at Devmountain.
+- 🌱 iOS Engineer, 2nd year computer science student.
 - 💞️ 
 - 📫 
 
