@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hb8man
-- 👀 I’m interested in obtaining a position as an iOS developer.
-- 🌱 iOS Engineer, 2nd year computer science student.
-- 💞️ 
-- 📫 
+- 👋 Hi, I’m Henry.
+- 👀 Entrepreneur at heart. Software engineer by trade. 
+- 🌱 Three years professional experience. 
+
 
 <!---
 hb8man/hb8man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
