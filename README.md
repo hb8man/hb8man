@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry.
 - 👀 Entrepreneur at heart. Software engineer by trade. 
-- 🌱 Three years professional experience. 
+- 🌱 3+ years SR. iOS developer.  
 
 
 <!---
