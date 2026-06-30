@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry.
 - 👀 Entrepreneur at heart. Software engineer by trade. 
-- 🌱 3+ years Sr. iOS development experience.  
+- 🌱 2 years of professional iOS engineering experience, plus 5+ years building Swift applications, with experience in SwiftUI, UIKit, networking, architecture, and shipping production features.
 
 
 <!---
